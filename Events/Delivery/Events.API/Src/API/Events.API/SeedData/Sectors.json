@@ -1,0 +1,15 @@
+[
+
+  {
+    "Id": "AA787A41-EE50-425E-94C7-8EE1D5D9C6B3",
+    "NameAr": "داخلي",
+    "NameEn": "Internal",
+    "Description": "The sector related to Internal news."
+  },
+  {
+    "Id": "E7A32B4D-96FC-49AB-B3E8-9D3B6F00A5EA",
+    "NameAr": "خارجي",
+    "NameEn": "External",
+    "Description": "The sector related to External news."
+  }
+]

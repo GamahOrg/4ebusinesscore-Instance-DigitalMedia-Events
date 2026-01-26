@@ -1,0 +1,18 @@
+﻿global using Domain.Enums;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Events.Domain.Models;
+global using Events.Infrastructure.Context;
+global using Events.Infrastructure.GenericRepo;
+global using Events.Infrastructure.ResponseDto;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using EventsModel = Events.Domain.Models.Events;
+global using System.Security.Claims;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Events.Infrastructure.Helpers;
+global using Newtonsoft.Json;
